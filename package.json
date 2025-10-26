@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_fakestore",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de productos usando FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "fakestore",
+    "api",
+    "productos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "undici": "^7.16.0"
+  }
+}
