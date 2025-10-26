@@ -11,7 +11,7 @@ const args = process.argv.slice(2); // Se remueve el 'node' y el 'index.js'
 
 // Función principal para procesar comandos
 async function main() {
-    console.log('  Sistema de Gestión de Productos - FakeStore API');
+    console.log(' Sistema de Gestión de Productos - FakeStore API');
     
     // Se verifica si se envian argumentos al script
     if (args.length === 0) {
